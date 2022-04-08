@@ -6,6 +6,8 @@ build:
     python: "3.8"
   
 python:
+  version: 3.8
+  system_packages: true
   # Install our python package before building the docs
   install:
     - method: pip
