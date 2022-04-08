@@ -6,7 +6,7 @@
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
-I am getting crazy...
+I am getting crazy.
 
 Read the tutorial here:
 
